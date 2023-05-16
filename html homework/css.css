@@ -1,0 +1,33 @@
+p{
+        background-color: orange;
+      }
+      div{
+        color: green;
+      }
+
+      <style type="text/css">
+
+    p{background-color: orange;}
+    
+  </style>
+
+   body{background-image: url(https://klike.net/uploads/posts/2019-11/1572612050_1.jpg)}
+  
+  .first.paragraph{
+    background-color: red;
+  }
+
+#boss{
+  color: blue;
+}
+.first{
+  background-color: blue;
+}
+div{background-color: green;}
+
+#first li:nth-child(3){
+  color: blue;
+}
+#boss{
+  text-decoration: underline;
+}
